@@ -1,0 +1,6 @@
+{
+  "name": "قالب موقع شركة تنظيف منازل | Saudi Home Cleaning Template",
+  "description": "قالب موقع إلكتروني احترافي وحديث لشركات تنظيف المنازل في المملكة العربية السعودية قابل للتخصيص بسهولة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
